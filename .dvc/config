@@ -1,0 +1,4 @@
+[core]
+    remote = localsttorage
+['remote "localsttorage"']
+    url = /home/seife/Desktop/myremote
