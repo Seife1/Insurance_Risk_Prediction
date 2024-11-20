@@ -1,0 +1,6 @@
+[core]
+    remote = storage_drive
+    hardlink_lock = true
+    autostage = true
+['remote "storage_drive"']
+    url = gdrive://1aUR2jjrMVT7SnvwRTN7WY2MG4VoT1dVP
